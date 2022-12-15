@@ -1,4 +1,4 @@
-## Atividade de Avaliação 1 - Node, Heroku e ElephantSQL
+## Codigo baseado na Atividade de Avaliação 1 de programação de scripts de 2021-2 (Node, Heroku e ElephantSQL)
 
 #### Objetivos:
 
